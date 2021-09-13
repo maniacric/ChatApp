@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input {
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  border-radius: 12px;
+  font-size: 20px;
+  background:rgb(128, 0, 11);
+  font-size: large;
+}
+
+span{
+  padding: 5px 15px;
+  background-color: bisque;
+}
